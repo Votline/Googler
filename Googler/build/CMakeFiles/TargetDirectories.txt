@@ -1,0 +1,3 @@
+/home/hypnogen/Desktop/projects/Googler/build/CMakeFiles/Googler.dir
+/home/hypnogen/Desktop/projects/Googler/build/CMakeFiles/edit_cache.dir
+/home/hypnogen/Desktop/projects/Googler/build/CMakeFiles/rebuild_cache.dir
